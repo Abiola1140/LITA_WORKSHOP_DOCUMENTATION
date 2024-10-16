@@ -34,3 +34,4 @@ In the early stage of cleaning and preparation of data,the following actions wer
 
 ### Data Analysis 
 ---
+### Data Visialization
