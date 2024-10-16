@@ -1,2 +1,2 @@
 # LITA_WORKSHOP_DOCUMENTATION
-Data-Driven Journey: My Incubator Hub Project
+Data_Driven Journey: My Incubator Hub Project 
