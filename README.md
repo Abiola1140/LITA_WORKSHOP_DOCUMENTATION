@@ -2,6 +2,14 @@
 
 ### Project Title: Retail Sales Analysis 
 ---
+[Project Overview](#project-overview)
+
+ Data Sources
+
+ Tools Used
+
+ Data Cleaning and Preparations
+ 
 ### Project Overview
 ---
 This data analysis project seeks to provide insights into sales performance of a retail enterprise over the past two years by examining different parameters in the given data, we aim to uncover a valuable insights that can inform strategic decision making. Through comprehensive analysis, we will identify patterns, trends, opportunities and challenges within the data, to optimize sales strategies and improve overall sales performance.
@@ -18,7 +26,7 @@ Data Sales.xlsx is the primary source of data used. This is an open source datas
 3. For Visualization
 - GitHub for Portfolio Building
 
-### Data Cleaning and Preparation
+### Data Cleaning and Preparations
 ---
 In the early stage of cleaning and preparation of data,the following actions were performed;
 - Loading of data into excel
