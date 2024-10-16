@@ -26,7 +26,7 @@ In the early stage of cleaning and preparation of data,the following actions wer
 - Cleaning and formatting of data
 
 4. ### Exploratory Data Analysis
-5. ---
+ ---
  This involved the process of delving into data to extract meaningful information to solve questions such as;
 - What is the top preforming region based on its overall performance?
 - Which line of business has the best performance based on total revenue and units sold?
