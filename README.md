@@ -10,8 +10,8 @@ Data Sales.xlsx is the primary source of data used. This is an open source datas
 
 ### Tools Used
 - Microsoft Excel
-i. For Data cleaning
-ii. For Analysis
-iii. For Visualization
+1. For Data cleaning
+2. For Analysis
+3. For Visualization
 - GitHub
-i. For Portfolio Building
+1. For Portfolio Building
