@@ -14,3 +14,14 @@ Data Sales.xlsx is the primary source of data used. This is an open source datas
 2. For Analysis
 3. For Visualization
 - GitHub for Portfolio Building
+
+### Data Cleaning and Preparation
+In the early stage of cleaning and preparation of data,the following actions were performed;
+1. Loading of data into excel
+2. Imputing missing data
+3. Cleaning and formatting of data
+
+4. ### Exploratory Data Analysis
+5. This involved the process of delving into data to extract meaningful information to solve questions such as;
+6. 
+7. 
