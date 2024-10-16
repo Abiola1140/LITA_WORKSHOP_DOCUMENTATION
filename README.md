@@ -1,5 +1,6 @@
 ## LITA_WORKSHOP_DOCUMENTATION
 ---
+
 ### Project Title: Retail Sales Analysis 
 ---
 ### Project Overview
