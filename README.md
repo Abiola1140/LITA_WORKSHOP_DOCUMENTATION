@@ -17,12 +17,12 @@ Data Sales.xlsx is the primary source of data used. This is an open source datas
 
 ### Data Cleaning and Preparation
 In the early stage of cleaning and preparation of data,the following actions were performed;
-1. Loading of data into excel
-2. Imputing missing data
-3. Cleaning and formatting of data
+- Loading of data into excel
+- Imputing missing data
+- Cleaning and formatting of data
 
 4. ### Exploratory Data Analysis
-5. This involved the process of delving into data to extract meaningful information to solve questions such as;
-6. What is the top preforming region based on its overall performance?
-7. Which line of business has the best performance based on total revenue and units sold?
-8. What is the overall sales trend over past two years?
+ This involved the process of delving into data to extract meaningful information to solve questions such as;
+- What is the top preforming region based on its overall performance?
+- Which line of business has the best performance based on total revenue and units sold?
+- What is the overall sales trend over past two years?
