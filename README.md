@@ -9,6 +9,10 @@
  Tools Used
 
  Data Cleaning and Preparations
+
+ [Data Analysis](#data-analysis)
+
+ [Data Visualization](#data-visialization)
  
 ### Project Overview
 ---
