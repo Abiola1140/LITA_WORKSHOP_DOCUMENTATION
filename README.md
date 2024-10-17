@@ -20,11 +20,12 @@ This data analysis project seeks to provide insights into sales performance of a
 
 ### Data Sources
 ---
-Data Sales.xlsx is the primary source of data used. This is an open source dataset, readily available on platforms like kaggle or FRED, serves as a foundation for our analysis.
+Data Sales.xlsx is the primary source of data used. This is an open source dataset, readily available on platforms like kaggle, entails information about each made by the company
 
 ### Tools Used
 ---
-- Microsoft Excel [Download Here](https://Microsoft.com)
+- Microsoft Excel  [Download
+   - [Download Here](https://Microsoft.com)
 1. For Data cleaning
 2. For Analysis
 3. For Visualization
