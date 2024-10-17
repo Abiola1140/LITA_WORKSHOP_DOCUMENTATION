@@ -1,7 +1,5 @@
 # LITA_WORKSHOP_DOCUMENTATION
 
-# Retail Sales Analysis 
-
 ## Table of Contents
 ---
 - [Project Overview](#project-overview)
@@ -22,8 +20,23 @@
 
  - [Limitations](#limitations)
 
- 
- 
+
+# Project Title: Retail Sales Analysis 
+
+# Introduction
+This project is to showcase my data analysis expertise developed in data analytics workshop of 3-months learning using microsoft excel, sql and powerbi.
+This present project is focused on Microsoft excel tool for the whole project. The problem statement is fictional scenario i came up with after studying the dataset.
+
+## Problem Statement
+
+A prestigious retail chain company operating across multiple regions in Nigeria wants to know his sales performance to identify trends, opportunities, and areas for improvement for revenue generation, strategic decision-making, performance evaluation and goal setting, using sales data from 2014-2015. The stakeholders, as a result tasked me as a data analyst to perform a rapid analysis and report.
+
+   - After careful consideration, four questions need to be answered:
+1. How can we optimize regional sales performance?
+2. How can we improve product sales and address declining product lines?
+3. How can we enhance store performance and maximize revenue?
+4. How can we optimize business operations based on seasonal sales patterns?
+   
 ### Project Overview
 ---
 
@@ -54,19 +67,16 @@ In the early stage of cleaning and preparation of data,the following actions wer
 - Imputing missing data.
 - Cleaning and formatting of data.
 
-### Exploratory Data Analysis
- ---
 
- This involved the process of delving into data to extract meaningful information to solve key questions such as:
- 
-- What is the top preforming region based on its overall performance?
-- Which line of business has the best performance based on total revenue and units sold?
-- What is the overall sales trend over past two years?
+### Data Analysis/Visualization
+To solve the problem statement, simple visualizations was used to analyze or summarised the data.
 
-### Data Analysis 
+
+
+
+
 ---
-### Data Visialization
----
+
 ### Findings
 ---
 ### Recommendations 
