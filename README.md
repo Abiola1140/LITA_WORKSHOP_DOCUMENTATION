@@ -10,7 +10,10 @@ This present project is focused on Microsoft excel tool for the whole project. T
 ## Problem Statement
 ---
 
-A prestigious retail chain company operating across multiple regions in Nigeria wants to know his sales performance to identify trends, opportunities, and areas for improvement for revenue generation, strategic decision-making, performance evaluation and goal setting, using sales data from 2014-2015. The stakeholders, as a result tasked me as a data analyst to perform a rapid analysis and report.
+A prestigious retail chain company operating across multiple regions in Nigeria wants to know his sales performance to identify trends, 
+opportunities, and areas for improvement for revenue generation, strategic decision-making, performance evaluation
+and goal setting, using sales data from 2014-2015. The stakeholders, as
+a result tasked me as a data analyst to perform a rapid analysis and report.
 
    - After careful consideration, four questions need to be answered:
 1. Which region do revenue flourish the most?
