@@ -32,10 +32,10 @@ This present project is focused on Microsoft excel tool for the whole project. T
 A prestigious retail chain company operating across multiple regions in Nigeria wants to know his sales performance to identify trends, opportunities, and areas for improvement for revenue generation, strategic decision-making, performance evaluation and goal setting, using sales data from 2014-2015. The stakeholders, as a result tasked me as a data analyst to perform a rapid analysis and report.
 
    - After careful consideration, four questions need to be answered:
-1. How can we optimize regional sales performance?
-2. How can we improve product sales and address declining product lines?
-3. How can we enhance store performance and maximize revenue?
-4. How can we optimize business operations based on seasonal sales patterns?
+1. Which region do revenue flourish the most?
+2. Which product categories are driving sales?
+3. Which stores outperform others?
+4. what periods experience higher revenue than others?
    
 ### Project Overview
 ---
@@ -70,6 +70,11 @@ In the early stage of cleaning and preparation of data,the following actions wer
 
 ### Data Analysis/Visualization
 To solve the problem statement, simple visualizations was used to analyze or summarised the data.
+
+![image](https://github.com/user-attachments/assets/f370f6d6-d5a2-466a-be44-2a3c6b732f19)
+
+### 
+
 
 
 
