@@ -16,7 +16,7 @@ A prestigious retail chain company operating across multiple regions in Nigeria 
 1. Which region do revenue flourish the most?
 2. Which product categories are driving sales?
 3. Which stores outperform others?
-4. what is the overall sales trenf for over the last two years??
+4. what is the peak revenue periods over the last two years?
    
 ### Project Overview
 ---
@@ -76,10 +76,8 @@ Ankpa stands out as the clear leader with a revenue of #1.71bn, significantly ou
 ### Revenue by Month
 ![image](https://github.com/user-attachments/assets/9b91fb86-0a1c-4b6c-9275-f16710bd1ebf)
 
-### The overall revenue trend for both years shows an Upward trend and some fluctuations
-This indicate a general increase in revenue, there are months where the revenue in 2015 is lower than in 2014. This indicates that while the company has seen growth, it's not consistently increasing year over year.
-With Further findings, in 2014, in the month of March a significant increase in sales follow by a slight dip in April, while in September a sharp decline in saless caompared to the previous months.
-In 2015, in the month of February, a sudden increase in sales, followed by a decline in March, while in July and August is a period of relatively stable sales followed by a spike in september.
+### The peak revenue periods over the past two years were December and November.
+The month of December consistently experienced the highest sales levels in both 2014 and 2015. Further findings also shows there is a significant increase revenue, particularly in November 2015.
 
 ### Conclusions/Recommendations 
 
