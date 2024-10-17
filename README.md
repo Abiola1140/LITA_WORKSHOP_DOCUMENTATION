@@ -83,6 +83,8 @@ Ankpa stands out as the clear leader with a revenue of #1.71bn, significantly ou
 The month of December consistently experienced the highest sales levels in both 2014 and 2015. Further findings also shows there is a significant increase revenue, particularly in November 2015.
 
 ### Conclusions/Recommendations 
+- The North East region demonstrated exceptional sales performance, generating over ₦12.49 billion in revenue, significantly surpassing other regions.
+To capitalize on this regional strength, the company should consider investing in additional stores or expanding existing ones in the North East region.
 
 
 
