@@ -6,21 +6,21 @@
 ---
 - [Project Overview](#project-overview)
 
- Data Sources
+  - Data Sources
 
- Tools Used
+  - Tools Used
 
- Data Cleaning and Preparations
+  - Data Cleaning and Preparations
 
- [Data Analysis](#data-analysis)
+ - [Data Analysis](#data-analysis)
 
- [Data Visualization](#data-visialization)
+ - [Data Visualization](#data-visialization)
 
- [Results/Findings](#results/findings)
+ - [Findings](#findings)
 
- [Recommendations](#recommendations)
+ - [Recommendations](#recommendations)
 
- [Limitations](#limitations)
+ - [Limitations](#limitations)
 
  
  
@@ -67,7 +67,7 @@ In the early stage of cleaning and preparation of data,the following actions wer
 ---
 ### Data Visialization
 ---
-### Results/Findings
+### Findings
 ---
 ### Recommendations 
 ---
