@@ -1,6 +1,6 @@
 # LITA_WORKSHOP_DOCUMENTATION
 
-## Retail Sales Analysis 
+# Retail Sales Analysis 
 
 ## Table of Contents
 ---
