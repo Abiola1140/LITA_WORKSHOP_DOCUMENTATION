@@ -1,33 +1,14 @@
 # LITA_WORKSHOP_DOCUMENTATION
 
-## Table of Contents
----
-- [Project Overview](#project-overview)
-
-  - Data Sources
-
-  - Tools Used
-
-  - Data Cleaning and Preparations
-
- - [Data Analysis](#data-analysis)
-
- - [Data Visualization](#data-visialization)
-
- - [Findings](#findings)
-
- - [Recommendations](#recommendations)
-
- - [Limitations](#limitations)
-
-
 # Project Title: Retail Sales Analysis 
-
+---
 # Introduction
+---
 This project is to showcase my data analysis expertise developed in data analytics workshop of 3-months learning using microsoft excel, sql and powerbi.
 This present project is focused on Microsoft excel tool for the whole project. The problem statement is fictional scenario i came up with after studying the dataset.
 
 ## Problem Statement
+---
 
 A prestigious retail chain company operating across multiple regions in Nigeria wants to know his sales performance to identify trends, opportunities, and areas for improvement for revenue generation, strategic decision-making, performance evaluation and goal setting, using sales data from 2014-2015. The stakeholders, as a result tasked me as a data analyst to perform a rapid analysis and report.
 
@@ -35,7 +16,7 @@ A prestigious retail chain company operating across multiple regions in Nigeria 
 1. Which region do revenue flourish the most?
 2. Which product categories are driving sales?
 3. Which stores outperform others?
-4. what periods experience higher revenue than others?
+4. what is the overall sales trenf for over the last two years??
    
 ### Project Overview
 ---
@@ -69,25 +50,38 @@ In the early stage of cleaning and preparation of data,the following actions wer
 
 
 ### Data Analysis/Visualization
+---
 To solve the problem statement, simple visualizations was used to analyze or summarised the data.
 
-![image](https://github.com/user-attachments/assets/f370f6d6-d5a2-466a-be44-2a3c6b732f19)
+### Revenue by Region
+![image](https://github.com/user-attachments/assets/8a595542-6c02-49d8-809d-429b34f91aab)
 
-### 
+### North East region have the most flourish revenue with over #12.49bn.
+
+Since the company want to identify the sales performance by geographical region, I had to examine the regions to know the region with the highest revenue and that is North East Region with over  #12.49bn while the less flourish region is North Central with the value of ₦4.32bn.
+
+### Line of Business by Units Sold
+![image](https://github.com/user-attachments/assets/5f8a9275-dcfd-4e1d-b698-c450a8870edb)
+
+ ### According to line of business copier Sales is the primary driver of sales. 
+Based on the provided chart, copier sales significantly outsells the other product lines, making it the contributor to overall sales. while Printer sales is the lowest number of unit sold among all product lines.
+
+### Top 10 store by Revenue
+![image](https://github.com/user-attachments/assets/b38f6501-5fc9-4b1c-bb1d-fe2820aac5ac)
+
+### Ankpa stores outperform others out of the top 10.
+Ankpa stands out as the clear leader with a revenue of #1.71bn, significantly outperforming the rest of the stores while Ajaokuta and Arochuckwu follow closely behind with revenues of
+#1.4bn each. The less performimg store is Askira/Uba with the value of ₦0.90bn.
+
+### Revenue by Month
+![image](https://github.com/user-attachments/assets/9b91fb86-0a1c-4b6c-9275-f16710bd1ebf)
+
+### The overall revenue trend for both years shows an Upward trend and some fluctuations
+This indicate a general increase in revenue, there are months where the revenue in 2015 is lower than in 2014. This indicates that while the company has seen growth, it's not consistently increasing year over year.
+With Further findings, in 2014, in the month of March a significant increase in sales follow by a slight dip in April, while in September a sharp decline in saless caompared to the previous months.
+In 2015, in the month of February, a sudden increase in sales, followed by a decline in March, while in July and August is a period of relatively stable sales followed by a spike in september.
+
+### Conclusions/Recommendations 
 
 
-
-
-
-
-
-
-
----
-
-### Findings
----
-### Recommendations 
----
-### Limitations 
 
