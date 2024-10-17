@@ -16,7 +16,7 @@
  
 ### Project Overview
 ---
-This data analysis project seeks to provide insights into sales performance of a retail enterprise over the past two years by examining different parameters in the given data, we aim to uncover a valuable insights that can inform strategic decision making. Through comprehensive analysis, we will identify patterns, trends, opportunities and challenges within the data, to optimize sales strategies and improve overall sales performance.
+This data analysis project seeks to provide insights into sales performance of a retail enterprise over the past two years. By examining different parameters in the given data, we aim to uncover a valuable insights that can inform strategic decision making. Through comprehensive analysis, we will identify patterns, trends, opportunities and challenges within the data, to optimize sales strategies and improve overall sales performance.
 
 ### Data Sources
 ---
@@ -28,6 +28,7 @@ Data Sales.xlsx is the primary source of data used. This is an open source datas
 1. For Data cleaning
 2. For Analysis
 3. For Visualization
+4. Creating reports
 - GitHub for Portfolio Building
 
 ### Data Cleaning and Preparations
@@ -37,7 +38,7 @@ In the early stage of cleaning and preparation of data,the following actions wer
 - Imputing missing data
 - Cleaning and formatting of data
 
-4. ### Exploratory Data Analysis
+### Exploratory Data Analysis
  ---
  This involved the process of delving into data to extract meaningful information to solve questions such as;
 - What is the top preforming region based on its overall performance?
