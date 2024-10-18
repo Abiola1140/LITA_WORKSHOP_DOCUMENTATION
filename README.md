@@ -17,7 +17,7 @@ a result tasked me as a data analyst to perform a rapid analysis and report.
 
    - After careful consideration, four questions need to be answered:
 1. Which region do revenue flourish the most?
-2. Which product categories are driving sales?
+2. Which line of business drives sales?
 3. Which stores outperform others?
 4. what is the peak revenue periods over the last two years?
    
@@ -74,7 +74,7 @@ Based on the provided chart, copier sales significantly outsells the other produ
 
 ### Ankpa stores outperform others out of the top 10.
 Ankpa stands out as the clear leader with a revenue of #1.71bn, significantly outperforming the rest of the stores while Ajaokuta and Arochuckwu follow closely behind with revenues of
-#1.4bn each. The less performimg store is Askira/Uba with the value of ₦0.90bn.
+#1.4bn each. The less performimg store is Askira/Uba with the value of #0.90bn.
 
 ### Revenue by Month
 ![image](https://github.com/user-attachments/assets/9b91fb86-0a1c-4b6c-9275-f16710bd1ebf)
@@ -82,9 +82,20 @@ Ankpa stands out as the clear leader with a revenue of #1.71bn, significantly ou
 ### The peak revenue periods over the past two years were December and November.
 The month of December consistently experienced the highest sales levels in both 2014 and 2015. Further findings also shows there is a significant increase revenue, particularly in November 2015.
 
-### Conclusions/Recommendations 
+### Conclusions
 - The North East region demonstrated exceptional sales performance, generating over ₦12.49 billion in revenue, significantly surpassing other regions.
-To capitalize on this regional strength, the company should consider investing in additional stores or expanding existing ones in the North East region.
+
+- Copier sales have been the primary driver of revenue for the retail chain company. This indicates a strong market demand for copier products.
+- Ankpa stores have consistently demonstrated superior sales performance compared to other stores in the retail chain.
+- December and November consistently emerged as the peak revenue periods for the retail chain over the past two years.
+
+
+### Recommendations 
+- To capitalize on this regional strength, the company should consider investing in additional stores or expanding existing ones in the North East region.
+- To sustain and potentially increase sales, the company should consider expanding copier product offering,explore opportunities to increase distribution and reach a wider customer base.
+- To capitalize on the success of Ankpa stores, the company should examine the factors contributing to Ankpa's success and implement similar strategies in other underperforming stores and invest in Ankpa's growth.
+- To capitalize on this seasonal trend, the company should ensure adequate product availability and customer service during peak sales periods and launch promotional activities specifically designed to attract customers during November and December.
+ 
 
 
 
