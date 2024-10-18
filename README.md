@@ -66,7 +66,7 @@ Since the company want to identify the sales performance by geographical region,
 ### Line of Business by Units Sold
 ![image](https://github.com/user-attachments/assets/5f8a9275-dcfd-4e1d-b698-c450a8870edb)
 
- ### According to line of business copier Sales is the primary driver of sales. 
+### Line of business copier Sales is the primary driver of sales. 
 Based on the provided chart, copier sales significantly outsells the other product lines, making it the contributor to overall sales. while Printer sales is the lowest number of unit sold among all product lines.
 
 ### Top 10 store by Revenue
