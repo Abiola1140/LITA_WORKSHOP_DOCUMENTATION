@@ -83,7 +83,7 @@ Ankpa stands out as the clear leader with a revenue of #1.71bn, significantly ou
 The month of December consistently experienced the highest sales levels in both 2014 and 2015. Further findings also shows there is a significant increase revenue, particularly in November 2015.
 
 ### Conclusions
-- The North East region demonstrated exceptional sales performance, generating over ₦12.49 billion in revenue, significantly surpassing other regions.
+- The North East region demonstrated exceptional sales performance, generating over #12.49 billion in revenue, significantly surpassing other regions.
 
 - Copier sales have been the primary driver of revenue for the retail chain company. This indicates a strong market demand for copier products.
 - Ankpa stores have consistently demonstrated superior sales performance compared to other stores in the retail chain.
@@ -91,7 +91,7 @@ The month of December consistently experienced the highest sales levels in both 
 
 
 ### Recommendations 
-- To capitalize on this regional strength, the company should consider investing in additional stores or expanding existing ones in the North East region.
+- The retail chain company should consider expanding its operations in the North East region to capitalize on the high demand and potential for increased revenue.
 - To sustain and potentially increase sales, the company should consider expanding copier product offering,explore opportunities to increase distribution and reach a wider customer base.
 - To capitalize on the success of Ankpa stores, the company should examine the factors contributing to Ankpa's success and implement similar strategies in other underperforming stores and invest in Ankpa's growth.
 - To capitalize on this seasonal trend, the company should ensure adequate product availability and customer service during peak sales periods and launch promotional activities specifically designed to attract customers during November and December.
